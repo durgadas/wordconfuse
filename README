@@ -58,3 +58,4 @@ Django Setup notes
         )
     urlpatterns += staticfiles_urlpatterns()
 
+#test
